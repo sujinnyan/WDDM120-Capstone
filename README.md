@@ -31,7 +31,7 @@
 
 
 <h1 align="center">#Next Steps</h1>
-<p align="center"></p>
+<p align="center">I plan to add the employee's start time and leave time so that you can know how long they have worked.</p>
 
 
 <h1 align="center">#Author</h1>
